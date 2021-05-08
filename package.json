@@ -1,6 +1,6 @@
 {
-  "name": "microbundle-ts-pkg",
-  "description": "A TypeScript npm package skeleton/starter project with microbundle, AVA and XO",
+  "name": "ls-memory",
+  "description": "Just a simple wrapper around localstorage to support it inside nodejs via memory backed storage",
   "version": "0.0.1",
   "source": "src/main.ts",
   "main": "dist/main.umd.js",
@@ -52,11 +52,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HugoDF/microbundle-ts-pkg.git"
+    "url": "git+https://github.com/arash16/ls-memory.git"
   },
   "author": "Hugo",
   "bugs": {
-    "url": "https://github.com/HugoDF/microbundle-ts-pkg/issues"
+    "url": "https://github.com/arash16/ls-memory/issues"
   },
-  "homepage": "https://github.com/HugoDF/microbundle-ts-pkg#readme"
+  "homepage": "https://github.com/arash16/ls-memory#readme"
 }
